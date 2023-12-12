@@ -1,0 +1,14 @@
+*{
+    background-color: rgb(166, 213, 213);
+}
+.n1{
+    border: 2px solid black;
+    padding-top:.5rem;
+}
+.p1{
+    float: right;
+    background-color: aquamarine;
+}
+.n1{
+    font-size: 25px;
+}
